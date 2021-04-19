@@ -1,2 +1,5 @@
-package nookin.project.pfinal.controller;public class Reserva {
+package nookin.project.pfinal.controller;
+
+public class Reserva {
+
 }
