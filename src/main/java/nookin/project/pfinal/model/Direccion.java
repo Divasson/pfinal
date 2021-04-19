@@ -11,4 +11,8 @@ public class Direccion {
     private String direccion;
     private Double latitud;
     private Double longitud;
+
+    public String getLatLonString(){
+        return ""+latitud+","+longitud;
+    }
 }
