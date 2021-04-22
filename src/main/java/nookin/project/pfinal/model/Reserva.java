@@ -1,6 +1,7 @@
 package nookin.project.pfinal.model;
 
 import java.util.Date;
+import java.util.List;
 
 import lombok.*;
 

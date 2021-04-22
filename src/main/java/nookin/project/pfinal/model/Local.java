@@ -22,5 +22,6 @@ public class Local {
     private Integer visitas;
     private Integer sem;
     private List<Categoria> categorias;
+    private Integer ganancias;
     
 }
