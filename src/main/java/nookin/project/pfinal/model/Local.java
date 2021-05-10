@@ -23,4 +23,5 @@ public class Local {
     private Integer sem;
     private List<Categoria> categorias;
     
+    
 }
