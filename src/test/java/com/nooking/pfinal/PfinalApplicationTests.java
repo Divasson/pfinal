@@ -1,4 +1,4 @@
-package nookin.project.pfinal;
+package com.nooking.pfinal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

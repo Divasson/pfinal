@@ -1,4 +1,4 @@
-package nookin.project.pfinal;
+package com.nooking.pfinal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
